@@ -6,6 +6,7 @@ Over time I thought i'd challenge myself by re-working the program into a new la
 Python  
 Ruby
 
-To run the program, clone the repository, then navigate into the language project of your choice and run the program (ie. 'python final_project.py' or 'ruby final_project.rb', etc.)
+To run the program, clone the repository, then navigate into the language project of your choice and run the program  
+(ie. `python final_project.py` or `ruby final_project.rb`, etc.)
 
 So far, only 6 pokemon are available for selection, more may be added in the future.
