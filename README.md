@@ -3,7 +3,7 @@ Pokemon Battle program originally written in Python for my final project for Sta
 
 Over time I thought i'd challenge myself by re-working the program into a new language whenever I learn one. So far, the list of languages it has been written in are as follows:
 
-Python
+Python  
 Ruby
 
 To run the program, clone the repository, then navigate into the language project of your choice and run the program (ie. 'python final_project.py' or 'ruby final_project.rb', etc.)
